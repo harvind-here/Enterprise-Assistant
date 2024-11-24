@@ -24,10 +24,8 @@ The repository contains the following files and directories:
 ├── app.py           # Main application file
 ├── chatbot.py       # Core chatbot logic
 ├── document_processor.py  # Document handling functionality
-├── index.ts         # TypeScript entry point
 ├── rag.py          # Retrieval Augmented Generation implementation
-├── security.py     # Security implementations
-└── various configuration files
+└── security.py     # Security implementations
 ```
 
 ## Preliminary Setup Guide
