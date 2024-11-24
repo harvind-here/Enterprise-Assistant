@@ -45,17 +45,11 @@ Make sure you have Python 3.7 or higher installed. Then install the necessary pa
 ```bash
 pip install -r sih_requirements.txt
 ```
-3. Set up Node.js (if applicable)
-
-If the project has front-end components, ensure you have Node.js and npm installed, then:
-```bash
-npm install
-```
-4. Configuration (if any)
+3. Configuration (if any)
 
 Certain environment variables or configuration files might need to be updated with the correct credentials, API keys, etc.
 
-5. Run the application
+4. Run the application
 ```bash
 python app.py
 ```
