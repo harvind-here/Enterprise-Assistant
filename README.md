@@ -1,9 +1,10 @@
 # Enterprise-Assistant
  A chat based assistant for efficient administration and IT support for clients, admins and employees of a company/enterprise.
 
-# Enterprise Chatbot
-
-This project implements a chat-based assistant designed to provide efficient administration and IT support for clients, administrators, and employees within a company or enterprise environment. It aims to streamline communication and problem-solving through a conversational interface.
+## Skills:
+<img src="https://img.shields.io/badge/LLMs-3776AB?style=flat-square&logo=ML&logoColor=white" alt="LLMs">
+<img src="https://img.shields.io/badge/RAG-3776AB?style=flat-square&logo=finetuning&logoColor=white" alt="RAG">  
+<img src="https://img.shields.io/badge/Flask-3776AB?style=flat-square&logo=Data&logoColor=white" alt="Flask">
 
 ## Features
 
