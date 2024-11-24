@@ -1,0 +1,353 @@
+HR Policies and Employee Handbook
+
+[Company Name]
+
+Preface
+
+Welcome to [Company Name]! We are thrilled to have you join our team. This handbook outlines the company's policies, procedures, and expectations to ensure a positive and productive work environment. Please read it carefully.
+Our success relies on the dedication of our employees. This handbook helps you understand your role in our shared journey. We are committed to fostering an open, respectful, and fair workplace where you can thrive.
+Please reach out to the HR department with any questions.
+
+Table of Contents
+
+Recruiting and Hiring Policies
+ Overview
+ Equal Employment Opportunity
+ Application Process
+ Interview Process
+ Background Checks and References
+ Offer of Employment
+ At-Will Employment
+   Definition and Scope
+   Exceptions to At-Will Employment
+Conduct Policies
+ Professional Conduct
+ Attendance and Punctuality
+ Dress Code and Personal Appearance
+ Use of Company Property
+ Confidentiality and Non-Disclosure
+Employment Classification
+ Full-Time Employees
+ Part-Time Employees
+ Temporary Employees
+ Interns and Apprentices
+Non-Discrimination and Anti-Harassment Policies
+ Policy Statement
+ Prohibited Conduct
+ Reporting Procedures
+ Investigation and Resolution
+ Retaliation Prohibition
+Safety Policies
+ General Safety Rules
+ Emergency Procedures
+ Workplace Violence Prevention
+ Reporting Injuries and Incidents
+Reasonable Accommodation
+ Policy Statement
+ Procedure for Requesting Accommodations
+ Responsibilities of Employees and Management
+Disciplinary/Termination Policies
+ Grounds for Disciplinary Action
+ Disciplinary Procedures
+ Termination of Employment
+ Resignation
+ Exit Interviews
+Additional Policies and Procedures
+ Grievance Handling Procedure
+ Employee Benefits
+ Leave of Absence Policies
+ Performance Evaluation
+ Training and Development
+Legal Compliance and Ethics
+ Compliance with Laws
+ Conflict of Interest
+ Whistleblower Policy
+Benefits & Perks
+ Health Insurance
+ Medical Insurance
+ Dental Insurance
+ Vision Insurance
+ Health Insurance for Staff Outside the US
+ Life Insurance
+ Short Term Disability Insurance
+ Retirement Plan
+ Flexible Spending Account (FSA)
+ Paid Time Off
+ Sabbatical
+ Paid Sick Time
+ Summer Hours
+ Scheduling Time Off
+ Family Leave
+ Bereavement Leave
+ Pet Insurance
+ Employee Profit Sharing
+ Employee Liquidity Pool
+ Laptop Policy
+ Home Office Set-up
+ Coworking Space Stipend
+ Personal 37signals Accounts
+ Expense Account
+37signals Code of Conduct
+ Politics at work
+ Some Definitions & Resources
+Getting Started
+ Your First Few Days
+How We Work
+ Remotely
+ Cycles
+ Cooldown
+ Communication
+ Asynchronously
+ With managers of one
+ Balanced
+Making a Career
+ Your First Year
+ Mastery & Titles
+ Pay & Promotions
+ Performance Reviews
+ Performance Improvement Plans
+Managing work devices
+ Access to code and secrets
+ Mobile devices, Windows and Linux
+ FAQ
+A Note About Moonlighting
+ OK
+ Not OK
+ In general
+Our Internal Systems
+ Dash
+ Queenbee
+ The 37 command 
+ Sentry
+ Kandji
+ Shipshape
+Our Rituals
+ Meet-ups
+ All Hands
+ Everyone on Support (EOS)
+Severance Packages
+State Paid Family Leave Provisions
+ California Paid Family Leave
+ Colorado Paid Family Leave
+ Oregon Paid Family Leave
+Titles for Designers
+Titles for Ops
+Titles for Programmers
+Programming Management
+Individual Contributor Expectations
+Titles for QA
+Titles for Customer Support
+Titles for Customer Support Leadership
+
+
+
+
+1. Recruiting and Hiring Policies
+Overview: Our policies aim to attract and retain top talent reflecting our community.
+Equal Employment Opportunity: We are an Equal Opportunity Employer, adhering to Article 16 of the Indian Constitution, prohibiting discrimination based on race, color, religion, sex, national origin, age, disability, or any other protected status.
+Application Process: Submit applications via our website or approved channels.
+Interview Process: May include technical assessments, behavioral interviews, and panel discussions.
+Background Checks and References: Offers are contingent on successful background checks.
+Offer of Employment: Formal offers will be in writing, detailing terms and conditions.
+At-Will Employment: Employment is "at-will," meaning either party can terminate the relationship at any time with or without cause, barring legal exceptions or specific contracts.
+
+2. Conduct Policies
+Professional Conduct: Maintain a positive attitude, respect colleagues, and follow company values.
+Attendance and Punctuality: Adhere to schedules and promptly notify supervisors of any deviations.
+Dress Code and Personal Appearance: Dress appropriately for your position and maintain a professional appearance.
+Use of Company Property: Utilize company resources responsibly, solely for work-related purposes.
+Confidentiality and Non-Disclosure: Safeguard company information, even after employment ends.
+
+3. Employment Classification
+Full-Time Employees: Work at least 40 hours per week and are eligible for benefits.
+Part-Time Employees: Work fewer than 40 hours per week and may have limited benefits.
+Temporary Employees: Hired for specific periods or projects, with benefits contingent on contracts.
+Interns and Apprentices: Engaged for educational purposes, subject to their agreement's terms.
+
+4. Non-Discrimination and Anti-Harassment Policies
+Policy Statement: We maintain a workplace free from discrimination and harassment.
+Prohibited Conduct: Unwelcome conduct based on protected characteristics that affects work or creates a hostile environment.
+Reporting Procedures: Report incidents to your supervisor or HR.
+Investigation and Resolution: We ensure fair investigations and take appropriate corrective actions.
+Retaliation Prohibition: Retaliation against those reporting incidents is strictly prohibited.
+
+5. Safety Policies
+General Safety Rules: Follow safety protocols and immediately report unsafe conditions.
+Emergency Procedures: Adhere to emergency plans.
+Workplace Violence Prevention: Threats or violence are unacceptable; report any such instances immediately.
+Reporting Injuries and Incidents: Report all injuries and incidents promptly.
+
+6. Reasonable Accommodation
+Policy Statement: We provide reasonable accommodations for qualified individuals with disabilities.
+Procedure for Requesting Accommodations: Submit requests to HR.
+Responsibilities of Employees and Management: Employees should provide documentation; management will facilitate accommodations.
+
+7. Disciplinary/Termination Policies
+Grounds for Disciplinary Action: Includes poor performance, misconduct, policy violations, etc.
+Disciplinary Procedures: May involve warnings, suspension, or termination.
+Termination of Employment: Can occur with or without cause, following legal regulations.
+Resignation: Provide at least two weeks' written notice.
+Exit Interviews: May be conducted to gather feedback.
+
+8. Additional Policies and Procedures
+Grievance Handling Procedure: Follow established procedures for addressing concerns.
+Employee Benefits: Refer to the benefits guide for details on insurance, retirement plans, time off, and more.
+Leave of Absence Policies: Various leaves are available; seek approval from HR.
+Performance Evaluation: Regular assessments and feedback will be provided.
+Training and Development: We encourage continuous learning and offer development opportunities.
+
+9. Legal Compliance and Ethics
+Compliance with Laws: Adhere to all applicable laws and regulations.
+Conflict of Interest: Disclose any potential conflicts to HR.
+Whistleblower Policy: Report suspected misconduct confidentially.
+
+10. Benefits & Perks
+Health Insurance:
+Medical Insurance: Blue Cross Blue Shield PPO (US); 75% employer-paid premium. 1. Medical Insurance: Our company provides a range of medical insurance options, including HMO, PPO, and HDHP plans. These plans cover a wide range of medical services, including doctor visits, hospital stays, and prescription medications. 2. Flexible Spending Account (FSA): Employees can contribute to an FSA, which allows them to set aside pre-tax dollars for medical expenses, such as copays, deductibles, and prescriptions. 3. Health Reimbursement Arrangement (HRA): We offer an HRA, which provides employees with a set amount of funds each year to use for medical expenses. 4. Employee Assistance Program (EAP): Our EAP provides confidential counseling services and support for employees dealing with personal or professional challenges. 5. Wellness Initiatives: We encourage employee wellness through various initiatives, such as on-site fitness classes, health screenings, and smoking cessation programs. 6. Leave Programs: We offer a range of leave programs, including paid time off, family and medical leave, and disability leave, to support employees' medical needs. In the medical areas, we also provide: 1. On-site Health Clinics: Some locations have on-site health clinics that offer routine medical check-ups, vaccinations.
+Dental and Vision Insurance: MetLife (US); 100% employer-paid premium.
+Health Insurance for Staff Outside the US: 75% reimbursement for private health insurance (capped).
+Life Insurance: $400,000 coverage through MetLife; 100% employer-paid premium.
+Short Term Disability Insurance: MetLife policy; up to 70% salary replacement for 12 weeks (US).
+Retirement Plan: Vanguard 401(k) (US); 100% match up to 6% of salary. International employees receive a matching contribution to their home country's retirement account.
+Flexible Spending Account (FSA): Pre-tax savings for medical and dependent care expenses.
+Paid Time Off:
+Vacation and Personal Days: 20 days annually + 11 local holidays.
+Sabbatical: 6-week paid sabbatical every three years.
+Paid Sick Time: Notify your manager when sick.
+Summer Hours: 4-day workweeks from May 1st to August 31st.
+Scheduling Time Off: Coordinate with your manager and team.
+Family Leave: Up to 16 weeks at 100% pay for primary caregivers, 6 weeks for secondary caregivers.
+Bereavement Leave: 10 days for immediate family, 3 days for extended family.
+Pet Insurance: 10% discount on Figo pet insurance.
+Employee Profit Sharing: 10% of annual profits shared based on tenure (eligible after two years).
+Employee Liquidity Pool: Potential share in 10% of company value upon sale or public offering (eligible after two years).
+Laptop Policy: Company-provided MacBook, upgradable with approval.
+Home Office Set-up: $3,000 expense allowance during the first year.
+Coworking Space Stipend: Up to $200/month reimbursement.
+Personal 37signals Accounts: Free Basecamp and HEY accounts.
+Expense Account: Company Visa card for work-related expenses.
+
+11. 37signals Code of Conduct
+We prioritize:
+Assuming good intentions.
+Openness and collaboration.
+Respect and empathy.
+Constructive feedback.
+We prohibit discrimination and harassment. Report any violations to your manager or People Ops.
+Consequences include documentation, training, reprimands, or termination. Retaliation is strictly prohibited.
+Politics at work: While we respect political views, we avoid political discussions internally and do not engage in politics as a company.
+Refer to the handbook for definitions of discrimination, harassment, sexual harassment, and retaliation.
+
+12. Getting Started
+Your manager will guide you through onboarding, including:
+Laptop setup
+Account access
+Training
+Introductions to team members and your 37signals buddy
+
+13. How We Work
+Remotely: We are a fully distributed company.
+Cycles: We operate in 6-week cycles followed by a 2-week cooldown period.
+Communication: We value clear communication through daily and weekly check-ins, cycle kickoffs, and heartbeats.
+Asynchronously: We embrace asynchronous work, collaborating through various tools.
+Managers of One: We encourage self-management and taking initiative.
+Balanced: We promote a healthy work-life balance and adhere to a 40-hour workweek (32 hours in the summer).
+
+14. Making a Career
+Your First Year: Focus on meeting performance expectations and embracing feedback.
+Mastery & Titles: We value continuous learning and have a five-level title structure (Junior to Principal).
+Pay & Promotions: We offer competitive pay based on the San Francisco market, with a $73,500 salary floor.
+Performance Reviews: Regular reviews are conducted to provide feedback and discuss progress.
+Performance Improvement Plans (PIPs): Implemented when performance falls short of expectations.
+
+15. Managing Work Devices
+We use Kandji to manage and secure company-issued Macs. Personal devices should not be used for accessing sensitive information.
+
+16. Moonlighting Policy
+We allow occasional side gigs or projects that don't conflict with your work at 37signals. However, full-time or part-time work for competitors is not permitted.
+
+17. Our Internal Systems
+Dash: Logging, reporting, and application health.
+Queenbee: Invoice, accounting, and identity system.
+The 37 command: Interface for production consoles.
+Sentry: Exception tracking.
+Kandji: Device management.
+Shipshape: Internal security tool.
+
+18. Our Rituals
+Meet-ups: Bi-annual company-wide gatherings in different cities.
+All Hands: Cycle-end meetings to discuss company updates.
+Everyone on Support (EOS): Employees are encouraged to take customer support shifts.
+
+19. Severance Packages
+Severance is offered based on tenure, including pay, benefits, and unused vacation time.
+
+20. State Paid Family Leave Provisions
+We comply with state-specific paid family leave regulations.
+
+21. Titles for Designers
+Designer (L2)
+A Designer at this level possesses design sensibilities aligned with the company brand, but occasionally requires guidance. They are proficient in HTML, CSS, and JavaScript, and are in the process of learning Rails. Their writing is clear and concise with guidance, and they can adapt their tone and voice to suit different products. They have a solid understanding of design software and tools. At this level, they can manage small projects (spanning two weeks) with minimal oversight. They are capable of setting scope for small projects, but may need assistance when making cuts.
+Senior Designer (L3)
+A Senior Designer demonstrates a strong alignment with the company brand and writes clean, modern HTML, CSS, and JavaScript. They work comfortably within the Rails framework. Their writing is excellent, requiring minimal editing, and they effectively adapt to the tone and voice of various products. They are proficient in using industry-standard design software and tools. A Senior Designer can lead small projects independently and effectively sets and manages project scope. They also mentor junior designers and demonstrate strong collaboration skills.
+Lead Designer (L4)
+A Lead Designer is capable of inventing novel designs and applying brand guidelines expertly. They are proficient in HTML, CSS, JavaScript, Rails, and Stimulus, and actively contribute to improving design processes. Their writing is exceptional, capturing the brand voice effortlessly without requiring guidance. They have a deep understanding of design tools and techniques, and often introduce new tools to the team. Lead Designers drive large projects (four to six weeks in duration) autonomously and exhibit strong judgment in setting and managing project scope. They coach and mentor team members, and effectively lead small teams of one to two designers.
+Principal Designer (L5)
+A Principal Designer plays a crucial role in defining and elevating brand and design principles. They lead complex, high-impact projects, including the development of new products, with minimal supervision. Their writing masters the brand voice and they possess the ability to extend and evolve it. Their writing is consistently insightful and impactful. Principal Designers have a mastery of existing tools and are adept at identifying opportunities to improve team workflows through new technologies. They demonstrate exceptional judgment in scoping even the most complex projects and are respected leaders who influence design culture and mentor across teams.
+
+22. Titles for Ops
+Junior SRE (L1)
+Junior SREs are developing their expertise in one or two areas like networking or configuration management. They require guidance when working on production systems. They shadow on-call shifts and assist with triaging issues. They are in the process of learning company tools and systems. Junior SREs handle smaller tasks with guidance and their judgment is still developing, often requiring input from senior team members.
+SRE (L2)
+An SRE at this level is proficient in one or more areas of expertise and can comfortably work on production systems by following established procedures. They handle on-call shifts with support from senior team members and can triage production issues. They are proficient in using common tools and systems. SREs at this level can work independently on small projects and contribute to larger ones. They can make sound decisions within their defined scope.
+Senior SRE (L3)
+A Senior SRE has mastered multiple areas of expertise and can independently handle maintenance tasks, including participation in high-risk operations. They confidently manage on-call shifts and can resolve production issues independently. They possess deep expertise in at least one major system used by the company. Senior SREs lead large projects and mentor junior team members. They consistently demonstrate strong judgment and problem-solving skills.
+Lead SRE (L4)
+A Lead SRE leads the team, mentors others, and possesses expertise across multiple areas. They can lead the resolution of complex problems and remain calm and collected under pressure. Lead SREs have mastered multiple systems and contribute to strategic decisions regarding these systems. They drive critical projects and provide direction for the team. They are trusted advisors with excellent judgment and significantly influence team direction.
+Principal SRE (L5)
+A Principal SRE is a recognized expert who elevates team practices and sets industry standards. They lead critical incident responses and coordinate company-wide efforts during such events. Principal SREs possess expertise across a wide range of areas including configuration management, containers, continuous integration and development, debugging, orchestration, optimization, networking, performance, reliability, and security. They are a technical authority who drives innovation and champions new technologies. Principal SREs shape the technical vision and lead major initiatives that have a company-wide impact. They are visionary leaders with impeccable judgment and significantly influence company practices.
+
+23. Titles for Programmers
+Programming Management
+Lead (L4) and Principal (L5) Programmers take on the role of tech leads, mentoring programmers at levels L1 through L3. Their responsibilities include conducting code reviews, holding project kickoff discussions, providing guidance during on-call shifts, and delivering performance feedback. Additionally, a Lead or Principal Programmer may serve as the SIP Coordinator, setting priorities, managing resources, and liaising with other teams. For the Mobile teams (iOS and Android), there is a dedicated manager who oversees both teams, providing both technical leadership and managing personnel.
+Individual Contributor Expectations
+Junior Programmer (L1)
+Junior Programmers are in the process of learning basic programming languages and frameworks. They handle small, well-defined tasks and participate in on-call rotations with guidance from more senior programmers. They are actively seeking to learn and ask clarifying questions. Their work requires thorough review and they are starting to learn internal tools.
+Programmer (L2)
+Programmers at this level apply established patterns and are capable of writing high-quality code. They can complete individual features independently and confidently handle on-call responsibilities with support from more experienced team members. They can proactively identify and resolve problems, demonstrating attention to detail. They use internal tools effectively for diagnosis and optimization, and contribute to cycle planning. Their work is generally reliable but might require occasional feedback.
+Senior Programmer (L3)
+Senior Programmers can design new patterns, write maintainable code, and effectively solve complex problems. They lead feature development from concept to completion and can lead incident responses within their area of expertise. They are trusted resources for technical advice and contribute to raising team standards. They have mastered internal tools and can identify areas for improvement. Senior Programmers manage their time effectively and proactively identify new work. Their work is generally trusted, and may only require occasional feedback on their approach.
+Lead Programmer (L4)
+Lead Programmers are subject matter experts who can make strategic technical decisions. They own and manage entire subsystems, such as Queen-bee or Action Cable, and have a strong track record of improving system quality, performance, or scalability. They can lead the resolution of major engineering incidents and exhibit composure under pressure. Lead Programmers are adept at using various tools and can champion new technologies. They can plan entire cycles for a team and drive the agenda, define scope, and provide valuable insights based on their extensive experience. They can provide mentorship to other programmers and are frequently sought out by colleagues for assistance with critical work. Their work is highly autonomous and typically requires minimal review.
+Principal Programmer (L5)
+Principal Programmers are innovators who push the boundaries of technology and set industry standards. They are capable of setting the strategic direction for an entire discipline, such as security, web development, or mobile development. They consistently work on projects of high complexity and are the go-to experts for advice on the most technically challenging problems. Principal Programmers can lead the most critical production incidents to successful resolutions, coordinating company-wide responses and offering advice on public communication. They are adept at long-term strategic thinking and work closely with leadership to communicate the engineering vision across teams and disciplines. They regularly challenge their team or discipline to drive projects forward and can effectively manage large teams over multiple cycles or for extensive, long-running projects. They are highly trusted leaders who set the bar for quality and autonomy within the engineering organization.
+
+24. Titles for QA
+Senior QA Tester (L3)
+Senior QA Testers possess a deep understanding of company products and can write excellent QA reports. They are skilled in using various testing tools and can balance their QA efforts based on project scope and risk. They can also coordinate with third-party vendors for testing purposes. Senior QA Testers understand the technical architecture relevant to QA and are proficient with browser developer tools and Git. They can run applications locally and identify and prioritize issues effectively, knowing when to escalate bugs, incidents, or on-call requests. They manage feature QA from start to finish and are trusted to run QA for product features independently.
+Lead QA Tester (L4)
+Lead QA Testers have encyclopedic product knowledge and are experts in QA approaches, product features, and limitations. They are proficient in advanced testing methodologies, including accessibility and security testing. Lead QA Testers define the company's QA strategy and set standards for the team. They oversee all product QA, including the management of third-party testing firms. They advocate for incorporating security, performance, and accessibility considerations during the development process. Lead QA Testers mentor other testers and are responsible for managing the "Top 5" bug list. They also work with product and engineering leadership to prioritize and resolve these critical bugs. They have a deep understanding of the company's technical architecture across all platforms and are highly skilled in testing across multiple operating systems, including macOS, Windows, Linux, Android, and iOS. They possess expertise in various browser nuances and developer tools and have a strong command of accessibility concerns related to CSS and JavaScript. Lead QA Testers make sound decisions aligned with company values and can identify opportunities for improvement. They are consistently sought out for advice on testing and accessibility and can proactively identify issues related to the work quality of internal and external QA teams.
+
+25. Titles for Customer Support
+Junior Customer Support Rep (L1)
+Junior Customer Support Reps are building their product knowledge and can effectively communicate basic information to customers. They are in the process of learning the company's style guide and might need occasional assistance with their writing. They are becoming familiar with the company's support systems and tools. Junior Customer Support Reps primarily handle customer emails and have limited involvement in project work. They are learning to manage individual tasks and seek guidance when needed.
+Customer Support Rep (L2)
+Customer Support Reps at this level are confident in their product knowledge, particularly for one specific product. They can tailor their communication to different customer situations and their writing consistently adheres to the company style guide. They are proficient in using support software and tools for their daily tasks. They participate in project work with oversight from senior team members. Customer Support Reps can manage their daily workload and to-dos effectively.
+Senior Customer Support Rep (L3)
+Senior Customer Support Reps are proficient in supporting one or more products and can expertly adapt their communication style to meet the needs of different customers. They have mastered the company's style guide and may even contribute to its improvement. They can diagnose and escalate low-level technical issues appropriately and possess a good technical understanding of all the company's products. Senior Customer Support Reps work independently on small projects and are reliable contributors to larger projects. They manage their daily workflow and special projects with minimal supervision and have a good understanding of how to scope projects effectively to meet deadlines.
+Lead Customer Support Rep (L4)
+Lead Customer Support Reps are proficient in supporting multiple products and consistently communicate with customers clearly and empathetically. They adhere to the company style guide and contribute to its improvement, including the snippets repository. Lead Customer Support Reps can work independently on all emails and calls, effectively handling challenging cases and frustrated customers. They can diagnose and escalate most technical issues and can often correct low-level customer technical issues independently, sometimes with support from the on-call team. They contribute to elevating team and company standards by developing new processes, procedures, and communication strategies. They are major contributors to special project work.
+Principal Customer Support Rep (L5)
+Principal Customer Support Reps are experts in multiple products and are highly skilled at communicating technical information to customers with clarity and enthusiasm. They adhere to the company style guide, contribute to its enhancement, and can handle the most difficult customer cases. Principal Customer Support Reps possess the ability to diagnose and escalate all technical issues to the appropriate channels. They are capable of correcting many technical issues independently. They are capable of conceptualizing and executing large special projects and leading teams to complete them. Principal Customer Support Reps make significant contributions to problem resolution and code resolution. They consistently demonstrate maturity and leadership in their role.
+
+26. Titles for Customer Support Leadership
+Customer Support Manager (M1)
+Customer Support Managers make significant contributions to the development of team service standards and requirements. They effectively communicate these standards and requirements to their reports. They maintain regular and productive communication with cohorts of two to four Customer Support Representatives. They act as coaches and resources for their reports, helping them improve their customer service skills, communication style, technical troubleshooting abilities, and project management skills. Customer Support Managers oversee performance management for a team of two to four representatives. This includes conducting performance reviews, administering Performance Improvement Plans recommended by leadership, performing terminations as advised by leadership, onboarding and training new hires, recommending promotions, and effectively managing any performance gaps within their team. They are capable of shaping, pitching, and executing support projects that enhance team skills and tooling, improve team and company processes, and elevate the customer experience. They are experts in all existing software systems and tools used for customer support and can identify areas where existing tooling needs improvement. They also propose solutions and oversee their implementation.
+Senior Customer Support Manager (M2)
+Senior Customer Support Managers define and document team service standards and requirements, securing approval from the Head of Support. They maintain regular and productive communication with cohorts of five or more Customer Support Representatives, acting as coaches and resources to help their reports enhance their customer service skills, communication style, technical troubleshooting abilities, and project management skills. Senior Customer Support Managers oversee the performance management of a team of five or more representatives. This includes conducting performance reviews, recommending and administering Performance Improvement Plans, recommending and performing terminations, onboarding and training new hires, recommending promotions, and effectively addressing performance gaps within their team. They are adept at shaping, pitching, and executing large-scale, far-reaching support projects that benefit team skills, tooling, and processes, both within the team and across the company, ultimately enhancing the customer experience. They recommend, implement, and use technology and tools that provide valuable insights into team performance and processes.
+Head of Customer Support (M3)
+The Head of Customer Support effectively supervises representatives who handle customer inquiries via phone and email. They ensure, through training and oversight, that customers consistently have a positive and thorough experience when contacting the company. They establish and maintain effective mechanisms for gathering and measuring customer satisfaction, team efficiency, and team performance. They share this data in a meaningful way with internal stakeholders, executive leadership, and the product development team. The Head of Customer Support oversees the performance management of Customer Support Managers, assisting them with administering Performance Improvement Plans, performing terminations, onboarding and training new hires, recommending promotions, and managing performance gaps. They are the ultimate authority for all team performance management decisions and can make accurate judgments that reflect the needs of both the team and the company as a whole. They approve and maintain oversight of Support projects, ensuring they add value to team skills and tooling, improve team and company processes, and enhance the customer experience. They are proficient in the full range of support tools and technologies and use them effectively to gather meaningful insights and make recommendations. They make well-informed and thoughtful decisions about adopting new tools and services and communicate these decisions to the team and the executive team as needed.
+
+Conclusion
+We are committed to providing a positive, productive, and rewarding work experience. Please consult this handbook for guidance and reach out to HR with any questions.
+This comprehensive handbook combines the provided information from "Synth handbook(Generic).txt" and "37signals handbook.txt" to offer a robust resource for both generic and 37signals-specific policies. It is structured for clarity and ease of navigation, addressing key areas of HR, benefits, company culture, and job-specific expectations. Remember, handbooks should always be reviewed and updated regularly to reflect evolving laws and company practices.

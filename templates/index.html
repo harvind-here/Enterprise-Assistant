@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Enterprise Assistant</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        #app-container {
+            max-width: 1800px !important;
+            width: 100% !important;
+        }
+        #main-content {
+            max-width: 1600px !important;
+            width: 100% !important;
+        }
+    </style>
+</head>
+<body>
+    <div id="app-container" style="max-width: 1800px !important; width: 100% !important;">
+        <div id="main-content" style="max-width: 1600px !important; width: 100% !important;">
+            <div id="chat-header">
+                <h1>AI Enterprise Assistant</h1>
+            </div>
+            <div id="alert-container">
+                <p id="alert-message"></p>
+            </div>
+            <div id="debug-info"></div>
+            <div id="passcode-container">
+                <input type="password" id="passcode-input" placeholder="Enter Passcode">
+                <button id="validate-passcode" class="btn">Validate</button>
+            </div>
+            <div id="chat-messages"></div>
+            <div id="attached-files"></div>
+            <div id="input-container">
+                <button id="attachment-button" class="btn">
+                    <img src="{{ url_for('static', filename='attachment.png') }}" alt="Attach file" class="icon attachment-icon">
+                </button>
+                <input type="file" id="file-input" style="display: none;" multiple>
+                <input type="text" id="user-input" placeholder="Type your message...">
+                <button id="send-button" class="btn">
+                    <img src="{{ url_for('static', filename='send.png') }}" alt="Send message" class="icon">
+                </button>
+            </div>
+            
+            <!-- Add this new section for dataset upload -->
+            <div id="dataset-upload-container">
+                <h2>Upload Dataset</h2>
+                <input type="file" id="dataset-file-input" accept=".csv,.xlsx,.json,.txt,.pdf,.docx">
+                <button id="upload-dataset-button" class="btn">Upload Dataset</button>
+                <div id="dataset-upload-status"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let validPasscode = null;
+        let attachedFiles = [];
+
+        function checkPasscodeStatus() {
+            fetch('/check_passcode_status')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.passcode_set) {
+                        document.getElementById('validate-passcode').textContent = 'Validate';
+                    } else {
+                        document.getElementById('validate-passcode').textContent = 'Set New Passcode';
+                    }
+                });
+        }
+
+        function validatePasscode() {
+            const passcode = document.getElementById('passcode-input').value;
+            fetch('/validate_passcode', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({passcode: passcode})
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.valid) {
+                    validPasscode = passcode;
+                    document.getElementById('passcode-container').style.display = 'none';
+                    document.getElementById('input-container').style.display = 'flex';
+                    addMessage('System', data.message || 'Passcode is correct. You can now use the chat.');
+                } else {
+                    addMessage('System', 'Invalid Passcode. Please try again.');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                addMessage('System', 'An error occurred while validating the Passcode.');
+            });
+        }
+
+        function addMessage(role, content, hasAttachments = false) {
+            const chatMessages = document.getElementById('chat-messages');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${role.toLowerCase()}`;
+            
+            let attachmentTag = '';
+            if (hasAttachments) {
+                attachmentTag = '<span class="attachment-tag">📎 Attachment</span>';
+            }
+            
+            messageDiv.innerHTML = `
+                ${attachmentTag}
+                <div class="message-content">
+                    <p>${content}</p>
+                    <span class="timestamp">${new Date().toLocaleTimeString()}</span>
+                </div>
+            `;
+            chatMessages.appendChild(messageDiv);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+
+        function addAttachmentTag(file) {
+            const attachedFilesDiv = document.getElementById('attached-files');
+            const fileTag = document.createElement('div');
+            fileTag.className = 'file-tag';
+            fileTag.innerHTML = `
+                <span>${file.name}</span>
+                <button class="delete-file" data-filename="${file.name}">
+                    <img src="{{ url_for('static', filename='delete.png') }}" alt="Delete file">
+                </button>
+            `;
+            attachedFilesDiv.appendChild(fileTag);
+
+            fileTag.querySelector('.delete-file').addEventListener('click', function() {
+                attachedFiles = attachedFiles.filter(f => f.name !== file.name);
+                attachedFilesDiv.removeChild(fileTag);
+            });
+        }
+
+        function handleFileSelect(event) {
+            const files = event.target.files;
+            for (let file of files) {
+                if (!attachedFiles.some(f => f.name === file.name)) {
+                    attachedFiles.push(file);
+                    addAttachmentTag(file);
+                }
+            }
+        }
+
+        function sendMessage() {
+            if (!validPasscode) {
+                addMessage('System', 'Please enter a valid passcode before sending messages.');
+                return;
+            }
+
+            const userInput = document.getElementById('user-input').value;
+            if (!userInput.trim()) {
+                return; // Don't send empty messages
+            }
+
+            const formData = new FormData();
+            formData.append('message', userInput);
+            formData.append('passcode', validPasscode);
+
+            attachedFiles.forEach(file => {
+                formData.append('files', file);
+            });
+
+            addMessage('You', userInput, attachedFiles.length > 0);
+
+            fetch('/chat', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'complete') {
+                    addMessage('Assistant', data.response);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                addMessage('System', 'An error occurred while processing your message.');
+            });
+
+            // Clear input field
+            document.getElementById('user-input').value = '';
+            // Clear attached files
+            attachedFiles = [];
+            document.getElementById('attached-files').innerHTML = '';
+        }
+
+        function uploadDataset() {
+            const fileInput = document.getElementById('dataset-file-input');
+            const file = fileInput.files[0];
+            if (!file) {
+                alert('Please select a file to upload.');
+                return;
+            }
+
+            const formData = new FormData();
+            formData.append('file', file);
+
+            fetch('/upload_dataset', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.message) {
+                    document.getElementById('dataset-upload-status').textContent = data.message;
+                } else if (data.error) {
+                    document.getElementById('dataset-upload-status').textContent = 'Error: ' + data.error;
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('dataset-upload-status').textContent = 'An error occurred while uploading the dataset.';
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', checkPasscodeStatus);
+        document.getElementById('validate-passcode').addEventListener('click', validatePasscode);
+        document.getElementById('send-button').addEventListener('click', sendMessage);
+        document.getElementById('user-input').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+        document.getElementById('attachment-button').addEventListener('click', function() {
+            document.getElementById('file-input').click();
+        });
+        document.getElementById('file-input').addEventListener('change', handleFileSelect);
+        document.getElementById('upload-dataset-button').addEventListener('click', uploadDataset);
+    </script>
+</body>
+</html>
