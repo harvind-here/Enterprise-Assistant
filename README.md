@@ -32,11 +32,11 @@ The repository contains the following files and directories:
 
 ## Preliminary Setup Guide
 
-Follow these instructions to get a development environment set up:
+Follow these instructions to get started:
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/enterprise-chatbot.git
+git clone https://github.com/harvind-here/enterprise-chatbot.git
 cd enterprise-chatbot
 ```
 2. Install Python Dependencies
