@@ -2,9 +2,7 @@
  A chat based assistant for efficient administration and IT support for clients, admins and employees of a company/enterprise.
 
 ## Skills:
-<img src="https://img.shields.io/badge/LLMs-3776AB?style=flat-square&logo=ML&logoColor=white" alt="LLMs">
-<img src="https://img.shields.io/badge/RAG-3776AB?style=flat-square&logo=finetuning&logoColor=white" alt="RAG">  
-<img src="https://img.shields.io/badge/Flask-3776AB?style=flat-square&logo=Data&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/LLMs-3776AB?style=flat-square&logo=ML&logoColor=white" alt="LLMs"> <img src="https://img.shields.io/badge/RAG-3776AB?style=flat-square&logo=finetuning&logoColor=white" alt="RAG"> <img src="https://img.shields.io/badge/Flask-3776AB?style=flat-square&logo=Data&logoColor=white" alt="Flask">
 
 ## Features
 
